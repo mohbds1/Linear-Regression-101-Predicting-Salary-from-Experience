@@ -36,7 +36,7 @@ The dataset includes:
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+###  Clone the repository
 ```bash
 git clone https://github.com/your-username/salary-prediction.git
 cd salary-prediction
